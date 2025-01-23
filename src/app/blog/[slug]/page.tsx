@@ -53,13 +53,12 @@ export default function page() {
 
       {/* Main Body of Blog */}
       <p className="text-lg leading-normal text-dark/80 dark:text-light/80">
-         Master Nextjs with our comprehensive full course playlist! This stepbystep series covers 
+         Master Nextjs with our comprehensive full course playlist This stepbystep series covers 
       everything you need to build dynamic and highperformance web applications From the basics
        of installation and setup to advanced features like serverside rendering API integration 
        and deployment—this course has it all! Perfect for beginners and experienced developers 
        looking to enhance their skills Start learning today and take your web development 
-       to the next level!
-      </p>
+       to the next level</p>
     </article>
   );
 }
