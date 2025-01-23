@@ -1,8 +1,6 @@
 import {
-    Facebook,
+    
     Github,
-    Linkedin,
-    Twitter,
     Youtube,
   } from "@/components/icons";
   import Link from "next/link";
